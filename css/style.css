@@ -129,26 +129,21 @@ img {
  ************************************************/
 
 @media screen and (min-width: 769px) and (max-width: 1140px) {
-
     .container {
         width: 100%;
         margin: 0 auto;
         padding: 0 20px;
     }
-
 }
 
 @media screen and (max-width: 768px) {
-
     .container {
         width: 100%;
         padding: 0 15px;
     }
-
 }
 
 @media screen and (max-width: 480px) {
-
     .container {
         width: 100%;
         padding: 0 10px;
@@ -168,5 +163,4 @@ img {
     .lessons .col, .steps .col, .why-us .col {
         width: 100%;
     }
-
 }
